@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+}
+
+.Title {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.span {
+    color: yellow;
+}
+
+button {
+    background-color: yellow;
+    padding: 8px 32px;
+    border: 0px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+button:hover {
+    background-color: rgb(94, 94, 0);
+    color: white;
+}
+
+button:active {
+    background-color: yellowgreen;
+}
